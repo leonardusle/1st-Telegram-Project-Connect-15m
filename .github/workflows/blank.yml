@@ -109,7 +109,7 @@ jobs:
             <b>• 🌐 Git Repo :</b> <b>${{ github.repository }}</b>
             <b>• ⏳ Deployed At :</b> <b>${{ env.FORMATTED_TIME }}</b>
             <b>• 🧾 CI Run # :</b> <b>${{ env.NOTIF_COUNTER }}</b>
-            <b>• 🔐 Commit Auth :</b> <b>edmoniaeaster@gmail.com</b>
+            <b>• 🔐 Commit Auth :</b> <b>leonardusbee@gmail.com</b>
 
             <b>#DeployLikeAPro #DevOpsMode</b>
             <b>💯 This script was 100% created by Abie Haryatmo</b>
